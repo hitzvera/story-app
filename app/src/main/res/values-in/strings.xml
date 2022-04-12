@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Aplikasi Cerita</string>
+    <string name="logout">Keluar</string>
+    <string name="greet_main_activity">Hallo, %1$s!</string>
+    <string name="login">Masuk</string>
+    <string name="go_to">Pergi ke</string>
+    <string name="create_account">Buat Akun</string>
+    <string name="hint_password">Masukan Password</string>
+    <string name="hint_email">Masukan Email</string>
+    <string name="hint_name">Masukan Nama</string>
+    <string name="register">daftar</string>
+    <string name="join_our_community">Masuk Komunitas Kita</string>
+    <string name="welcome_to">Selamat Datang Di</string>
+    <string name="remember_me">Ingat Saya</string>
+    <string name="sign_in">Masuk</string>
+    <string name="sign_up">Daftar</string>
+    <string name="make_account_text">Belum memiliki akun? silahkan buat akun</string>
+    <string name="name">Nama</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="app_widget_description">app widget deskripsi</string>
+
+    <string name="appwidget_text">APLIKASI CERITA BANNER</string>
+    <string name="empty_text">TIDAK ADA DATA</string>
+</resources>

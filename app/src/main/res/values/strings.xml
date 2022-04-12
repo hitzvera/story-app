@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="logout">logout</string>
+    <string name="greet_main_activity">Hello, %1$s!</string>
+    <string name="login">login</string>
+    <string name="go_to">go to</string>
+    <string name="create_account">create account</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="register">register</string>
+    <string name="join_our_community">join our community</string>
+    <string name="welcome_to">welcome To</string>
+    <string name="remember_me">Remember me</string>
+    <string name="sign_in">sign in</string>
+    <string name="sign_up">sign up</string>
+    <string name="make_account_text">Don\'t have an account? made one</string>
+    <string name="name">name</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+    <string name="appwidget_text">STORY APP BANNER</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="capture_image_button">Capture image button</string>
+    <string name="flip_camera">Flip Camera</string>
+    <string name="preview_profile_image">preview_profile_image</string>
+    <string name="language_setting">language setting</string>
+    <string name="add_button">add button</string>
+    <string name="profile_image">profile image</string>
+    <string name="take_photo">Take photo</string>
+    <string name="gallery">Gallery</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="upload">upload</string>
+</resources>
